@@ -1,6 +1,6 @@
 ---
 url: https://podman.io
-theme: jekyll-theme-hacker
+theme: jekyll-theme-modernist
 
 plugins:
   - jemoji
